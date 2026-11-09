@@ -1,0 +1,7 @@
+=== Native Simulation Output ===
+*** Booting Zephyr OS build v4.5.99 ***
+Hello World! native_sim
+
+=== Hardware Serial Output (ESP32-S3 /dev/ttyACM0) ===
+*** Booting Zephyr OS build v4.5.99 ***
+Hello World! esp32s3_devkitc/esp32s3/procpu
